@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-family: "Helvetica", Arial, sans-serif;
+    width: 223px;
+    background-color: rgb(132, 132, 132);
+    border-radius: 15px;
+}
